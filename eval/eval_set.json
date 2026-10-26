@@ -1,0 +1,17 @@
+[
+ {"question": "How many days of annual leave do I get?", "expected_source": "hr_leave_policy.md"},
+ {"question": "How many leave days can I carry forward?", "expected_source": "hr_leave_policy.md"},
+ {"question": "When do I need a medical certificate for sick leave?", "expected_source": "hr_leave_policy.md"},
+ {"question": "How long is maternity leave?", "expected_source": "hr_leave_policy.md"},
+ {"question": "How many days do I have to return an item?", "expected_source": "refund_policy.txt"},
+ {"question": "How long do refunds take to arrive?", "expected_source": "refund_policy.txt"},
+ {"question": "What is the minimum password length?", "expected_source": "it_security_policy.md"},
+ {"question": "Where do I report a phishing email?", "expected_source": "it_security_policy.md"},
+ {"question": "What is the daily meal allowance when travelling?", "expected_source": "employee_expenses.txt"},
+ {"question": "Which expenses need finance approval?", "expected_source": "employee_expenses.txt"},
+ {"question": "How long is the probation period?", "expected_source": "onboarding_guide.pdf"},
+ {"question": "How many days can I work from home?", "expected_source": "onboarding_guide.pdf"},
+ {"question": "What is the CEO's favourite colour?", "expected_source": null},
+ {"question": "Does the company provide free lunch in the cafeteria?", "expected_source": null},
+ {"question": "What is the pet policy for the office?", "expected_source": null}
+]
